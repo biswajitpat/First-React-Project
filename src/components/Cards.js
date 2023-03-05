@@ -19,7 +19,7 @@ export default function Cards() {
                 <section className="container">
       <div className="card">
         <div className="image">
-          <img src={abc} alt="" />
+          <img src={abc} alt="Image" />
         </div>
         <h2>Biswajit</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
@@ -27,7 +27,7 @@ export default function Cards() {
       </div>
       <div className="card">
         <div className="image">
-          <img src={df} alt="" />
+          <img src={df} alt="Image" />
         </div>
         <h2>Umashankar</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
@@ -35,7 +35,7 @@ export default function Cards() {
       </div>
       <div className="card">
         <div className="image">
-          <img src={gh} alt="" />
+          <img src={gh} alt="Image" />
         </div>
         <h2>Ayesh</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
@@ -43,7 +43,7 @@ export default function Cards() {
       </div>
       <div className="card">
         <div className="image">
-          <img src={kl} alt="" />
+          <img src={kl} alt="Image" />
         </div>
         <h2>Satya</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elite.</p>
