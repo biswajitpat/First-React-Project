@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/First-React-Project/static/css/main.f064cf8d.css",
+    "main.js": "/First-React-Project/static/js/main.57986977.js",
+    "static/js/787.28cb0dcd.chunk.js": "/First-React-Project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img4.jpg": "/First-React-Project/static/media/img4.43e009ce05ad7336eab7.jpg",
+    "static/media/img1.jpg": "/First-React-Project/static/media/img1.100060675389cca285a6.jpg",
+    "static/media/img2.jpg": "/First-React-Project/static/media/img2.4812bdfd6c4ec9af40ee.jpg",
+    "static/media/img3.jpg": "/First-React-Project/static/media/img3.04e04b1145e65f435a5f.jpg",
+    "static/media/logo1.png": "/First-React-Project/static/media/logo1.19aab7d26ac65233399e.png",
+    "index.html": "/First-React-Project/index.html",
+    "main.f064cf8d.css.map": "/First-React-Project/static/css/main.f064cf8d.css.map",
+    "main.57986977.js.map": "/First-React-Project/static/js/main.57986977.js.map",
+    "787.28cb0dcd.chunk.js.map": "/First-React-Project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f064cf8d.css",
+    "static/js/main.57986977.js"
+  ]
+}
